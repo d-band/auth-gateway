@@ -1,6 +1,8 @@
 auth-gateway
 ====
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/d-band/auth-gateway.svg)](https://greenkeeper.io/)
+
 > in development ...
 
 
